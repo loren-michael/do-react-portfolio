@@ -36,6 +36,7 @@ const AboutMe = () => {
                                     <li class="mb-2">Redux</li>
                                     <li class="mb-2">Ruby on Rails</li>
                                     <li class="mb-2">PostgreSQL</li>
+                                    <li class="mb-2">Google API</li>
                                     <li class="mb-2">ChatGPT</li>
                                     <li class="mb-2">HTML/CSS</li>
                                     <li class="mb-2">Tailwind Css</li>
