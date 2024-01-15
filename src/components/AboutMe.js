@@ -41,6 +41,15 @@ const AboutMe = () => {
                                     <li class="mb-2">Tailwind Css</li>
                                 </ul>
                             </div>
+                            <hr class="my-6 border-t border-gray-300"></hr>
+                            <div class="flex flex-col">
+                                <span class="text-blue-500 font-merriweather uppercase font-bold tracking-wider mb-2">Currently Learning</span>
+                                <ul class="font-merriweather">
+                                    <li class="mb-2">Python</li>
+                                    <li class="mb-2">Generative AI</li>
+                                    <li class="mb-2">OpenAI</li>
+                                </ul>
+                            </div>
                         </div>
                     </div>
                     <div class="col-span-4 sm:col-span-9">
