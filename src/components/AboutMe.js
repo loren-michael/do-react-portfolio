@@ -53,7 +53,7 @@ const AboutMe = () => {
                             </div>
                         </div>
                     </div>
-                    <div class="col-span-4 sm:col-span-9">
+                    <div class="h-screen flex-grow col-span-4 sm:col-span-9">
                         <div class="bg-white shadow rounded-lg p-6">
                             <h2 class="text-xl font-bold mb-4 font-merriweather">About Me</h2>
                             <p class="text-gray-700 font-merriweather">I am a freshly certified Full Stack Engineer looking for work! During the Covid-19 pandemic, I decided to shift gears and move away from my previous career as a live sound engineer. Coding felt like a natural change for me! During my career as a sound engineer, I rose to the position of Production Manager for a concert venue while also freelancing at other venues in the area. As a PM, I made sure that performers and staff were kept up to date on the schedule for the day and had all of the information needed to ensure a smooth day for everyone. This involved a lot of communication and attention to detail daily. I also was in charge of staffing a ticketing agent for most shows.
