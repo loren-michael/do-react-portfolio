@@ -56,12 +56,13 @@ const Projects = () => {
                 <div class="bg-white shadow rounded-lg p-6">
                   <h2 class="text-xl text-center font-bold mb-4 font-merriweather">Fax For Gaza</h2>
                   <p class="text-gray-600 text-center font-merriweather">A representative lookup tool with PDF generator.</p>
+                  <p class="text-gray-500 text-center font-merriweather">React, Google API, PDF Generator (react-pdf)</p>
                   <br></br>
                   <p class="text-gray-700 font-merriweather">I built this app to help more people access materials with which to contact their representatives in congress to support a ceasefire in Gaza. It uses the Google Civic Information API to find representatives and then uses that information to generate PDFs unique to each user. For privacy, all processing is done client-side and no information is saved.
                   </p>
                   <br></br>
                   <div>
-                    <a class="text-gray-900 hover:text-blue-600" aria-label="Fax For Gaza" href="http://faxforgaza.com" target="_blank" rel="noopener noreferrer">Live Application</a>
+                    <a class="text-center text-gray-900 hover:text-blue-600" aria-label="Fax For Gaza" href="http://faxforgaza.com" target="_blank" rel="noopener noreferrer">Live Application</a>
                   </div>
                   <br></br>
                   <br></br>
