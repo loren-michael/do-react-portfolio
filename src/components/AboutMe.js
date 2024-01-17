@@ -108,41 +108,92 @@ const AboutMe = () => {
                             </a> */}
                         </div>
 
-
                         <h2 class="text-xl font-bold mt-6 mb-4">Experience</h2>
+{/* Gman Tavern */}
                         <div class="mb-6">
                             <div class="flex justify-between">
                                 <span class="text-blue-500 font-bold">Production Manager and Lead Engineer</span>
                                 <p>
                                     <span class="text-blue-300 mr-2">at Gman Tavern</span>
-                                    <span class="text-blue-300">2016 - 2021</span>
+                                    <span class="text-blue-300">Sept 2016 - Sept 2021</span>
                                 </p>
                             </div>
                             <p class="mt-2">Managed event coordination for a concert venue. Communicated with performers and organizers to ensure a successful event from booking to completion. Scheduled ticketing staff. Typical day included stage managing for load-in and load-out and also running front of house and monitor positions during concerts.
                             </p>
                         </div>
+{/* Freelance */}
                         <div class="mb-6">
                             <div class="flex justify-between">
                                 <span class="text-blue-500 font-bold">Freelance Sound Engineer</span>
                                 <p>
                                     <span class="text-blue-300 mr-2">Chicago, IL</span>
-                                    <span class="text-blue-300">2016 - present</span>
+                                    <span class="text-blue-300">Sept 2008 - Sept 2021</span>
                                 </p>
                             </div>
                             <p class="mt-2">As an experienced live sound engineer I work with multiple venues and event coordinators throughout the city, including Metro, Cubby Bear, and Unity Temple in Oak Park, IL.
                             </p>
                         </div>
+{/* Busy Beaver */}
                         <div class="mb-6">
                             <div class="flex justify-between">
                                 <span class="text-blue-500 font-bold">Presser, Packager, Shipping</span>
                                 <p>
                                     <span class="text-blue-300 mr-2">at Busy Beaver Button Company</span>
-                                    <span class="text-blue-300">2016 - 2022</span>
+                                    <span class="text-blue-300">July 2016 - Aug 2021</span>
                                 </p>
                             </div>
                             <p class="mt-2">Detail oriented work assembling and shipping numerous large orders. Trained new employees in packaging and shipping. Built a Google Sheets spreadsheet application to help with company time management and staff scheduling based on previous job records.
                             </p>
                         </div>
+{/* Metro */}
+                        <div class="mb-6">
+                            <div class="flex justify-between">
+                                <span class="text-blue-500 font-bold">Sound Engineer</span>
+                                <p>
+                                    <span class="text-blue-300 mr-2">at Metro Chicago</span>
+                                    <span class="text-blue-300">Jun 2018 - Jul 2021</span>
+                                </p>
+                            </div>
+                            <p class="mt-2">Front of House and Monitor engineer for various events.
+                            </p>
+                        </div>                        
+{/* Cubby Bear */}
+                        <div class="mb-6">
+                            <div class="flex justify-between">
+                                <span class="text-blue-500 font-bold">Sound Engineer</span>
+                                <p>
+                                    <span class="text-blue-300 mr-2">at Cubby Bear</span>
+                                    <span class="text-blue-300">Jan 2020 - Mar 2020</span>
+                                </p>
+                            </div>
+                            <p class="mt-2">Set up and ran sound at Front of House or Monitors for concert events.
+                            </p>
+                        </div>                        
+{/* Hartman Scale */}
+                        <div class="mb-6">
+                            <div class="flex justify-between">
+                                <span class="text-blue-500 font-bold">Wiring Technician & Electrical Engineer</span>
+                                <p>
+                                    <span class="text-blue-300 mr-2">at Hartman Scale Company, Inc.</span>
+                                    <span class="text-blue-300">Nov 2008 - Mar 2016</span>
+                                </p>
+                            </div>
+                            <p class="mt-2">Designed and drew electrical schematics for industrial electric panels based on customers' needs. Built industrial control panels suitable for UL508A safety certification.
+                            </p>
+                        </div>                        
+{/* Sellersville Theater */}
+                        <div class="mb-6">
+                            <div class="flex justify-between">
+                                <span class="text-blue-500 font-bold">House Engineer</span>
+                                <p>
+                                    <span class="text-blue-300 mr-2">at Sellersville Theater 1894</span>
+                                    <span class="text-blue-300">Dec 2008 - Jan 2013</span>
+                                </p>
+                            </div>
+                            <p class="mt-2">Managed all show duties from load-in to load-out, including Monitors, Front of House, light focus and light show during concerts.
+                            </p>
+                        </div>                        
+{/* Ringling */}
                         <div class="mb-6">
                             <div class="flex justify-between">
                                 <span class="text-blue-500 font-bold">Sound Assistant</span>
@@ -152,6 +203,18 @@ const AboutMe = () => {
                                 </p>
                             </div>
                             <p class="mt-2">Set up and ran sound for the live band during circus shows. Responsibilities included managing truck pack and coordinating local union workers with other departments.
+                            </p>
+                        </div>
+{/* Zeo Brothers */}
+                        <div class="mb-6">
+                            <div class="flex justify-between">
+                                <span class="text-blue-500 font-bold">Rental Associate</span>
+                                <p>
+                                    <span class="text-blue-300 mr-2">at Zeo Brothers</span>
+                                    <span class="text-blue-300">Nov 2007 - Oct 2008</span>
+                                </p>
+                            </div>
+                            <p class="mt-2">Worked retail/rental counter and helped customers by building AV systems based on event needs. Prepared equipment for pickup and delivery, received and processed returns.
                             </p>
                         </div>
                         </div>
