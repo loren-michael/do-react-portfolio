@@ -36,6 +36,7 @@ const AboutMe = () => {
                                     <li class="mb-2">Redux</li>
                                     <li class="mb-2">Ruby on Rails</li>
                                     <li class="mb-2">PostgreSQL</li>
+                                    <li class="mb-2">QA Testing</li>
                                     <li class="mb-2">Google API</li>
                                     <li class="mb-2">ChatGPT</li>
                                     <li class="mb-2">HTML/CSS</li>
@@ -56,9 +57,13 @@ const AboutMe = () => {
                     <div class="col-span-4 sm:col-span-9">
                         <div class="bg-white shadow rounded-lg p-6">
                             <h2 class="text-xl font-bold mb-4 font-merriweather">About Me</h2>
-                            <p class="text-gray-700 font-merriweather">I am a freshly certified Full Stack Engineer looking for work! During the Covid-19 pandemic, I decided to shift gears and move away from my previous career as a live sound engineer. Coding felt like a natural change for me! During my career as a sound engineer, I rose to the position of Production Manager for a concert venue while also freelancing at other venues in the area. As a PM, I made sure that performers and staff were kept up to date on the schedule for the day and had all of the information needed to ensure a smooth day for everyone. This involved a lot of communication and attention to detail daily. I also was in charge of staffing a ticketing agent for most shows.
+                            <p class="text-gray-700 font-merriweather">I am a certified Full Stack Engineer looking for work! During the Covid-19 pandemic, I decided to shift gears and move away from my previous career as a live sound engineer. Coding felt like a natural change for me! During my career as a sound engineer, I rose to the position of Production Manager for a concert venue while also freelancing at other venues in the area. As a PM, I made sure that performers and staff were kept up to date on the schedule for the day and had all of the information needed to ensure a smooth day for everyone. This involved a lot of communication and attention to detail daily. I also was in charge of staffing a ticketing agent for most shows.
                             <br></br><br></br>
-                            I love working with JavaScript and React but also have a great appreciation for Ruby on Rails. As a person who enjoys thinking logically, databases just make sense! I have a passion for learning about accessibility and would love to find a company that prioritizes making the experience of their app as uniform as possible for all users.
+                            <br></br><br></br>
+                            I live in Chicago with my partner and our two rescue dogs, Nova and Celeste. I'm an avid gamer and have participated in numerous Beta and Alpha testing groups for more than a decade, adding to my QA experience. I love taking on DIY home renovation projects - learning how to tile was an adventure! I loved taking an intro course at the Chicago School of Woodworking and would love to take more classes in the future.
+                            <br></br><br></br>
+                            <br></br><br></br>
+                            I love working with JavaScript and React but also have a great appreciation for Ruby on Rails. As a person who enjoys thinking logically, databases just make sense! I have a passion for learning about accessibility and would love to find a company that prioritizes making the experience of their app as uniform as possible for all users. I look forward to mastering Python and using my knowledge to develop generative AI applications in the near future.
                             <br></br><br></br>
                             </p>
 
