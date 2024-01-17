@@ -88,16 +88,16 @@ const Projects = () => {
                   />                  */}
                   <div class="grid grid-cols-2 md:grid-cols-3 gap-4">
                     <span>
-                      <img class="h-auto max-w-full rounded-lg" src={ FFG1 } alt="Fax For Gaza 1 Home"/>
+                      <img class="h-auto max-w-full rounded-lg" src={ FFG1 } alt="Fax For Gaza Home"/>
                     </span>
                     {/* <div>
                       <img class="h-auto max-w-full rounded-lg" src={ FFG2 } alt="Fax For Gaza 2 Form"/>
                     </div> */}
                     <span>
-                      <img class="h-auto max-w-full rounded-lg" src={ FFG3 } alt="Fax FOr Gaza 3 Rep Display"/>
+                      <img class="h-auto max-w-full rounded-lg" src={ FFG3 } alt="Fax For Gaza Rep Display"/>
                     </span>
                     <span>
-                      <img class="h-auto max-w-full rounded-lg" src={ FFG4 } alt="Fax FOr Gaza 4 Links"/>
+                      <img class="h-auto max-w-full rounded-lg" src={ FFG4 } alt="Fax FOr Gaza Links"/>
                     </span>
                   </div>
                 </div>
