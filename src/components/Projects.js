@@ -1,7 +1,7 @@
 import "../App.css";
 import React from 'react';
 import FFG1 from '../resources/FFG1.jpg';
-import FFG2 from '../resources/FFG2.jpg';
+// import FFG2 from '../resources/FFG2.jpg';
 import FFG3 from '../resources/FFG3.jpg';
 import FFG4 from '../resources/FFG4.jpg';
 import CM1 from '../resources/CM1.jpg';
@@ -20,28 +20,8 @@ import sellit2 from '../resources/sellit2.jpg';
 import sellit3 from '../resources/sellit3.jpg';
 
 
-// import YouTube from "react-youtube";
 
 const Projects = () => {
-
-  // const opts: YouTubeProps['opts'] = {
-  //   height: '390',
-  //   width: '640',
-  //   playerVars: {
-  //     // https://developers.google.com/youtube/player_parameters
-  //     autoplay: 1,
-  //   },
-  // };
-
-
-  // const options = {
-  //   height: '390',
-  //   width: '640',
-  //   playerVars: {
-  //     autoplay: 1,
-  //     controls: 1
-  //   }
-  // };
 
   return (
     <div>
@@ -50,7 +30,7 @@ const Projects = () => {
           <div class="grid grid-cols-1">
             <div class="bg-white shadow rounded-lg p-6">
               <div class="col-span-4 sm:col-span-9">
-                <div class="bg-white shadow rounded-lg p-6">
+                {/* <div class="bg-white shadow rounded-lg p-6"> */}
 
 
                 <div class="bg-white shadow rounded-lg p-6">
@@ -304,7 +284,7 @@ const Projects = () => {
                       <img class="h-auto max-w-full rounded-lg" src={ RM14 } alt="Recipe Manager 1 Create"/>
                     </div>
                   </div>
-                </div>
+                {/* </div> */}
               </div>
             </div>
           </div>
