@@ -25,4 +25,4 @@ yarn-error.log*
 
 NOTES.md
 gitnotes.md
-yarn.lock
+# yarn.lock
