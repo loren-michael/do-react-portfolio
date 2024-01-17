@@ -81,18 +81,18 @@ const Projects = () => {
                     id="recipe v1 video"
                   />                  */}
                   <div class="grid grid-cols-2 md:grid-cols-3 gap-4">
-                    <div>
+                    <span>
                       <img class="h-auto max-w-full rounded-lg" src={ FFG1 } alt="Fax For Gaza 1 Home"/>
-                    </div>
-                    <div>
+                    </span>
+                    {/* <div>
                       <img class="h-auto max-w-full rounded-lg" src={ FFG2 } alt="Fax For Gaza 2 Form"/>
-                    </div>
-                    <div>
+                    </div> */}
+                    <span>
                       <img class="h-auto max-w-full rounded-lg" src={ FFG3 } alt="Fax FOr Gaza 3 Rep Display"/>
-                    </div>
-                    <div>
+                    </span>
+                    <span>
                       <img class="h-auto max-w-full rounded-lg" src={ FFG4 } alt="Fax FOr Gaza 4 Links"/>
-                    </div>
+                    </span>
                   </div>
                 </div>
 
