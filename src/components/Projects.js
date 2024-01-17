@@ -58,8 +58,13 @@ const Projects = () => {
                   <p class="text-gray-600 text-center font-merriweather">A representative lookup tool with PDF generator.</p>
                   <br></br>
                   <p class="text-gray-700 font-merriweather">I built this app to help more people access materials with which to contact their representatives in congress to support a ceasefire in Gaza. It uses the Google Civic Information API to find representatives and then uses that information to generate PDFs unique to each user. For privacy, all processing is done client-side and no information is saved.
-                  <br></br>
                   </p>
+                  <br></br>
+                  <div>
+                    <a class="text-gray-900 hover:text-blue-600" aria-label="Fax For Gaza" href="http://faxforgaza.com" target="_blank" rel="noopener noreferrer">Live Application</a>
+                  </div>
+                  <br></br>
+                  <br></br>
                   {/* <div class="flex justify-center items-center gap-6 my-6">
                     <a class="text-gray-700 hover:text-blue-600" aria-label="Recipe Manage 1 Demo" href="https://youtu.be/93D8D1Pqez8" target="_blank" rel="noopener noreferrer">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="h-6">
