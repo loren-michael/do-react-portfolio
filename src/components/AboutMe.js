@@ -109,6 +109,19 @@ const AboutMe = () => {
                         </div>
 
                         <h2 class="text-xl font-bold mt-6 mb-4">Experience</h2>
+{/* Freelance Engineer */}
+                        <div class="mb-6">
+                            <div class="flex justify-between">
+                                <span class="text-blue-500 font-bold">Freelance Engineer</span>
+                                <p>
+                                    <span class="text-blue-300 mr-2">Chicago, IL</span>
+                                    <span class="text-blue-300">June 2023 - Present</span>
+                                </p>
+                            </div>
+                            <p class="mt-2">Developed applications and consulted with other engineers on various projects.
+                            </p>
+                        </div>
+
 {/* Gman Tavern */}
                         <div class="mb-6">
                             <div class="flex justify-between">
