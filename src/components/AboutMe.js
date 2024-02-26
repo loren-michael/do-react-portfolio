@@ -112,7 +112,7 @@ const AboutMe = () => {
 {/* Freelance Engineer */}
                         <div class="mb-6">
                             <div class="flex justify-between">
-                                <span class="text-blue-500 font-bold">Freelance Engineer</span>
+                                <span class="text-blue-500 font-bold">Freelance Software Developer</span>
                                 <p>
                                     <span class="text-blue-300 mr-2">Chicago, IL</span>
                                     <span class="text-blue-300">June 2023 - Present</span>
