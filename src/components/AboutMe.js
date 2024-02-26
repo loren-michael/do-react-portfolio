@@ -48,6 +48,8 @@ const AboutMe = () => {
                                 <span class="text-blue-500 font-merriweather uppercase font-bold tracking-wider mb-2">Currently Learning</span>
                                 <ul class="font-merriweather">
                                     <li class="mb-2">Python</li>
+                                    <li class="mb-2">Salesforce</li>
+                                    <li class="mb-2">DevOps</li>
                                     <li class="mb-2">Generative AI</li>
                                     <li class="mb-2">OpenAI</li>
                                 </ul>
