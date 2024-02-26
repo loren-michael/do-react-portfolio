@@ -50,8 +50,6 @@ const AboutMe = () => {
                                     <li class="mb-2">Python</li>
                                     <li class="mb-2">Salesforce</li>
                                     <li class="mb-2">DevOps</li>
-                                    <li class="mb-2">Generative AI</li>
-                                    <li class="mb-2">OpenAI</li>
                                 </ul>
                             </div>
                         </div>
