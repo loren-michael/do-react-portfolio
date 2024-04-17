@@ -38,7 +38,7 @@ const Projects = () => {
                   <p class="text-gray-600 text-center font-merriweather">A representative lookup tool with PDF generator.</p>
                   <p class="text-gray-500 text-center font-merriweather">React, Google API, PDF Generator (react-pdf)</p>
                   <br></br>
-                  <p class="text-gray-700 font-merriweather">I built this app to help more people access materials with which to contact their representatives in congress to support a ceasefire in Gaza. It uses the Google Civic Information API to find representatives and then uses that information to generate PDFs unique to each user. For privacy, all processing is done client-side and no information is saved.
+                  <p class="text-gray-700 font-merriweather">I built this app to help more people access materials with which to contact their representatives in congress to support a ceasefire in Gaza. It uses the Google Civic Information API to find representatives and then uses that information to generate PDFs unique to each user. For privacy, all processing is done client-side and no information is saved. Building this application heled me learn how to interface with Google API. I also learned how to generate and display PDF files that use state information.
                   </p>
                   {/* <br></br> */}
                   
