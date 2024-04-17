@@ -42,7 +42,7 @@ const Projects = () => {
                   </p>
                   <br></br>
                   <div>
-                    <a class="inline-block text-sm px-4 py-2 leading-none border rounded text-white border-white hover:border-transparent hover:text-blue-600 hover:bg-white mt-4 lg:mt-0 font-merriweather" aria-label="Fax For Gaza" href="http://faxforgaza.com" target="_blank" rel="noopener noreferrer">Live Application</a>
+                    <a class="inline-block text-sm px-4 py-2 leading-none border rounded text-gray-700 border-gray-700 hover:border-blue-600 hover:text-blue-600 hover:bg-white mt-4 lg:mt-0 font-merriweather" aria-label="Fax For Gaza" href="http://faxforgaza.com" target="_blank" rel="noopener noreferrer">Live Application</a>
                   </div>
                   <a class="text-gray-700 hover:text-blue-600" aria-label="Fax For Gaza Repo" href="https://github.com/loren-michael/faxforgaza" target="_blank" rel="noopener noreferrer">
                     <svg stroke="currentColor" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="h-6 text-gray-700 hover:text-blue-600">
