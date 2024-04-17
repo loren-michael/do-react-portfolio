@@ -39,7 +39,7 @@ const Projects = () => {
                   <p class="text-gray-500 text-center font-merriweather">React, Google API, PDF Generator (react-pdf)</p>
                   <br></br>
                   <div>
-                    <a class="text-center text-gray-900 hover:text-blue-600" aria-label="Fax For Gaza" href="http://faxforgaza.com" target="_blank" rel="noopener noreferrer">Live Application</a>
+                    <a class="inline-block text-sm px-4 py-2 leading-none border rounded text-white border-white hover:border-transparent hover:text-blue-600 hover:bg-white mt-4 lg:mt-0 font-merriweather" aria-label="Fax For Gaza" href="http://faxforgaza.com" target="_blank" rel="noopener noreferrer">Live Application</a>
                   </div>
                   <br></br>
                   <p class="text-gray-700 font-merriweather">I built this app to help more people access materials with which to contact their representatives in congress to support a ceasefire in Gaza. It uses the Google Civic Information API to find representatives and then uses that information to generate PDFs unique to each user. For privacy, all processing is done client-side and no information is saved.
